@@ -4,10 +4,6 @@
     "index": 0,
     "guid": "884350af-4f8e-4110-93da-f132250c4b97",
     "isActive": true,
-    "balance": "$1,182.84",
-    "picture": "http://placehold.it/32x32",
-    "age": 36,
-    "eyeColor": "brown",
     "name": {
       "first": "Delia",
       "last": "Velez"
@@ -18,10 +14,6 @@
     "index": 1,
     "guid": "dee6f81c-9d4d-4a59-b4e8-745289725db5",
     "isActive": false,
-    "balance": "$1,763.51",
-    "picture": "http://placehold.it/32x32",
-    "age": 35,
-    "eyeColor": "blue",
     "name": {
       "first": "Mcleod",
       "last": "Mayo"
@@ -32,10 +24,6 @@
     "index": 2,
     "guid": "de05ca4e-527b-4f55-9bde-9d0bd53069ae",
     "isActive": true,
-    "balance": "$3,295.35",
-    "picture": "http://placehold.it/32x32",
-    "age": 28,
-    "eyeColor": "blue",
     "name": {
       "first": "Griffith",
       "last": "Molina"
@@ -46,10 +34,6 @@
     "index": 3,
     "guid": "e2157a17-3a5a-41f4-ba41-d8f779890989",
     "isActive": true,
-    "balance": "$2,353.07",
-    "picture": "http://placehold.it/32x32",
-    "age": 34,
-    "eyeColor": "green",
     "name": {
       "first": "Kelley",
       "last": "Joyner"
@@ -60,10 +44,6 @@
     "index": 4,
     "guid": "150726ab-19f6-4592-ba09-21ec112c2543",
     "isActive": false,
-    "balance": "$1,650.07",
-    "picture": "http://placehold.it/32x32",
-    "age": 37,
-    "eyeColor": "green",
     "name": {
       "first": "Harrington",
       "last": "Clarke"
